@@ -70,7 +70,9 @@ This project includes a `.gitignore` file to prevent tracking of:
 - IDE-specific settings and OS artifacts
 - Model files and Excel exports (optional)
 
-This ensures a clean, lightweight, and recruiter-friendly repository.
+## 🚀 Live Demo
+
+Check out the interactive house price prediction app 👉 [Streamlit App]https://boston-house-price-prediction-4ygrsef4n4kg27aauvedbg.streamlit.app/
 
 
 ## 📬 Contact
