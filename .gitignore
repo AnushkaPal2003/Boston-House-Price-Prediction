@@ -38,7 +38,7 @@ Thumbs.db
 .idea/
 
 # Model artifacts
-*.joblib
+
 *.pkl
 
 # Excel exports
